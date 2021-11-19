@@ -1,0 +1,3 @@
+# Java_Projects
+- Este projeto reorganiza um vetor que contém 100 mil números embaralhados automaticamente, para isso, possuí a lógica de três métodos de ordenação de valores, sendo: Bubble Sort, Selection Sort e Insertion Sort;
+- Há dois modos de gerar o vetor, o primeiro meio utiliza um laço de repetição "for" (os valores da variável de controle são inseridos no vetor e depois embaralhados pelo método "shuffle" da classe "Collections") e o segundo meio usa as classes "File", "FileReader" e "BufferedReader" para fazer a leitura de um arquivo de texto contendo todos os 100 mil números, os mesmos são inseridos no vetor.
